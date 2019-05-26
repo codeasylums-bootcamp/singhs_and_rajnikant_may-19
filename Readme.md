@@ -21,8 +21,8 @@ A product using SLACK and hosted in AWS to display unread messages of different 
    
    After the option clicked in the webpage we get directed to access the authorization of the user which is done by the SLACK itself seeking the credentials of the user and verifying the user's presence in database.
 
-
-###Re-directing---> ![channels](https://user-images.githubusercontent.com/43814535/58382873-4306b300-7fed-11e9-802f-cc076b0d3457.png)
+###Re-directing--->
+![channels](https://user-images.githubusercontent.com/43814535/58382873-4306b300-7fed-11e9-802f-cc076b0d3457.png)
 
 
 ###Display of unread messages in a single interface.
