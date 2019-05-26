@@ -10,16 +10,18 @@ A product using SLACK and hosted in AWS and Heroku  to display unread messages o
 ##Flow of SLACK-HACK
 
 
-###Website---> https://github.com/PrettyPrinted/weather_app_flask/issues/1#issue-44856899
+###Website---> https://obscure-sands-20176.herokuapp.com
+
+
    
    ![webpage1](https://user-images.githubusercontent.com/43814535/58382865-16eb3200-7fed-11e9-9e2f-d9d93d6a00ed.png)
    
-   https://github.com/PrettyPrinted/weather_app_flask/issues/2#issue-448569196
+   
    
    ![webpage2](https://user-images.githubusercontent.com/43814535/58382870-2b2f2f00-7fed-11e9-9de7-f32e571312ab.png)
 
 
-###Authorization-access--->  https://github.com/PrettyPrinted/weather_app_flask/issues/3#issue-448569326
+###Authorization-access--->  
 
    ![login](https://user-images.githubusercontent.com/43814535/58382806-7b59c180-7fec-11e9-83fb-ca927b9a25b3.png)
    
@@ -41,7 +43,8 @@ A product using SLACK and hosted in AWS and Heroku  to display unread messages o
   
   
 ##Team members (with github username)
-  Aditya Raj Singh - (adityarajsingh)
-  Harsh Kumar Singh - (gotosleep6)
-  Aman Kumar Singh - (aman200896)
-  Rajnikanth Kausalya - (Rajnikanth11)
+
+ ### Aditya Raj Singh - (@adityarajsingh)
+ ### Harsh Kumar Singh - (@gotosleep6)
+ ### Aman Kumar Singh - (@aman200896)
+ ### Rajnikanth Kausalya - (@Rajnikanth11)
