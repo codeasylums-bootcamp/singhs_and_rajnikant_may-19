@@ -39,17 +39,17 @@ A product using SLACK and hosted in AWS and Heroku  to display unread messages o
 
 
 
-\newline
+
 ### Display of unread messages in a single interface.
    The unread messages are displayed in a single webpage.
    
-   \newline
+   
    
    
 ## Usage
   Go to the SLACK-HACK webpage and signup using SLACK, and then enter the credentials for slack. If you don't have a slack account then you can signup into slack and then it will be re-directed into SLACK-HACK and you will be able to see your unread messages on the screen.
   
-  \newline
+  
   
   
 ## Team members (with github username)
